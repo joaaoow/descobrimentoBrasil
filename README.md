@@ -1,4 +1,4 @@
-<a>Desenvolvimento web criado para um trabalho da faculdade.<a>
+<strong>Desenvolvimento web criado para um trabalho da faculdade.</strong>
 <br>
 🛠️Ferramentas utilizadas:
 -HTML;
